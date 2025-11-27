@@ -8,7 +8,7 @@ export let options = {
         scenario1: {
             executor: 'constant-vus',
             vus: 10,
-            duration: '15s',
+            duration: '10s',
             exec: 'testGet' // Name of the function to execute
         },
         scenario2: {
